@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Exhibit = ({name}, {children}) =>{
+const Exhibit = ({name, children}) =>{
 return(
     <div className="Exhibit">
         <h2 className = 'ExhibitHeading'>{name}</h2>
