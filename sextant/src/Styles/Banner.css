@@ -1,0 +1,12 @@
+.Banner {
+   background-color: black;
+   color: white;
+   height: 5%;
+    padding: 30px;
+}
+.title{
+    margin-left: 0%;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+}
